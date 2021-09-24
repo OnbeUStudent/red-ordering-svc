@@ -5,6 +5,8 @@ namespace Dii_OrderingSvc.Data
 {
     public class Booking
     {
+
+        // Test
         public Booking()
         {
 
