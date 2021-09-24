@@ -10,8 +10,8 @@ on:
   workflow_dispatch:
 
 env:
-  APP_NAME: red-ordering-svc
-  PACT_PACTICIPANT: Dii_OrderingSvc
+  APP_NAME: Dii_OrderingSvc
+  PACT_PACTICIPANT: red-ordering-svc
   VERIFY_PROVIDER_PACT: 'false'
 
 jobs:
